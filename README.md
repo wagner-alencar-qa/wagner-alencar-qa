@@ -53,35 +53,21 @@ I also have experience with **automated testing using Cypress**, although with l
 
 ![QA](https://img.shields.io/badge/QA-6A0DAD?style=for-the-badge)![Manual Testing](https://img.shields.io/badge/Manual_Testing-8A2BE2?style=for-the-badge)![Test Automation](https://img.shields.io/badge/Test_Automation-5D3FD3?style=for-the-badge)![API Testing](https://img.shields.io/badge/API_Testing-4B0082?style=for-the-badge)![BDD](https://img.shields.io/badge/BDD-6A0DAD?style=for-the-badge)![TDD](https://img.shields.io/badge/TDD-5D3FD3?style=for-the-badge)
 
-<p align="center">━━━━━━━━━━━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━━━━━━━━━━━</p>
-
-
 ### 💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=white)
-
-<p align="center">━━━━━━━━━━━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━━━━━━━━━━━</p>
-
 
 ### 🗄️ Databases
 
 ![SQL](https://img.shields.io/badge/SQL-5D3FD3?style=for-the-badge)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white)![DBeaver](https://img.shields.io/badge/DBeaver-4B0082?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-<p align="center">━━━━━━━━━━━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━━━━━━━━━━━</p>
-
-
 ### 🛠️ Testing Tools
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)![Postman](https://img.shields.io/badge/Postman-6A0DAD?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="center">━━━━━━━━━━━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━━━━━━━━━━━</p>
-
-
 ### 🔄 DevOps & Version Control
 
 ![Git](https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-5D3FD3?style=for-the-badge&logo=github&logoColor=white)![GitKraken](https://img.shields.io/badge/GitKraken-6A0DAD?style=for-the-badge&logo=gitkraken&logoColor=white)
-
-<p align="center">━━━━━━━━━━━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━━━━━━━━━━━</p>
 
 ### 📋 Agile & Project Management
 
@@ -89,7 +75,4 @@ I also have experience with **automated testing using Cypress**, although with l
 
 <p align="center">━━━━━━━━━━━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━━━━━━━━━━━</p>
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wagner-alencar-qa&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-alencar-qa&layout=compact&theme=tokyonight" />
-</p>
+
